@@ -1,2 +1,2 @@
-# IT-Solution
-"Explore innovative and user-friendly It Solution website designs 📚💻 that enhance the learning experience. These repositories showcase responsive, interactive, and intuitive solutions for IT platforms 🌐, aiming to foster engagement, accessibility, and seamless navigation for IT as alike 👩‍🏫👨‍🏫."
+# IT-Solution-Website
+"IT Solution website design repository featuring modern, responsive layouts and clean code. Built for scalability and optimal performance, it's an ideal starting point for developing professional, user-friendly websites tailored to tech and business solutions."
